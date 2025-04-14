@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ideal-Cafe/static/css/main.722eafe8.css",
+    "main.js": "/Ideal-Cafe/static/js/main.76aea2d5.js",
+    "static/js/453.f21d5594.chunk.js": "/Ideal-Cafe/static/js/453.f21d5594.chunk.js",
+    "index.html": "/Ideal-Cafe/index.html",
+    "main.722eafe8.css.map": "/Ideal-Cafe/static/css/main.722eafe8.css.map",
+    "main.76aea2d5.js.map": "/Ideal-Cafe/static/js/main.76aea2d5.js.map",
+    "453.f21d5594.chunk.js.map": "/Ideal-Cafe/static/js/453.f21d5594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722eafe8.css",
+    "static/js/main.76aea2d5.js"
+  ]
+}
